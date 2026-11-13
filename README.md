@@ -1,32 +1,26 @@
-# 人物形象与封面规范
+# A Consistent Face
 
-整理人物形象、封面风格及相关制作资产的说明与规范。
+**Character-image and cover-design notes for keeping a visual identity recognizable across revisions.**
 
-GitHub：[eli-ovops/media-topic-b74a5a31ef](https://github.com/eli-ovops/media-topic-b74a5a31ef)
+## What you will find
 
-## 内容
+The implementation and working material behind this project, including the decisions and review notes retained in the public snapshot.
 
-本次公开副本包含 4 个来源文件。
+## Start here
 
-- [`任务单.md`](%E4%BB%BB%E5%8A%A1%E5%8D%95.md)
-- [`外部艺术照精选-20261009/PMO接收-20261009.md`](%E5%A4%96%E9%83%A8%E8%89%BA%E6%9C%AF%E7%85%A7%E7%B2%BE%E9%80%89-20261009/PMO%E6%8E%A5%E6%94%B6-20261009.md)
-- [`外部艺术照精选-20261009/选图交付.md`](%E5%A4%96%E9%83%A8%E8%89%BA%E6%9C%AF%E7%85%A7%E7%B2%BE%E9%80%89-20261009/%E9%80%89%E5%9B%BE%E4%BA%A4%E4%BB%98.md)
-- [`首轮艺术照-v1/提示词.md`](%E9%A6%96%E8%BD%AE%E8%89%BA%E6%9C%AF%E7%85%A7-v1/%E6%8F%90%E7%A4%BA%E8%AF%8D.md)
+- [Working note 1](%E4%BB%BB%E5%8A%A1%E5%8D%95.md)
+- [Working note 2](%E9%A6%96%E8%BD%AE%E8%89%BA%E6%9C%AF%E7%85%A7-v1/%E6%8F%90%E7%A4%BA%E8%AF%8D.md)
+- [Working note 3](%E5%A4%96%E9%83%A8%E8%89%BA%E6%9C%AF%E7%85%A7%E7%B2%BE%E9%80%89-20261009/%E9%80%89%E5%9B%BE%E4%BA%A4%E4%BB%98.md)
+- [Complete source inventory](SOURCE_MANIFEST.csv)
 
-文件类型：.md（4）。
+## Current scope
 
-## 使用与阅读入口
+This snapshot includes 4 source files. Original media, databases, private account records and other unprocessed attachments were not included in this text-and-source release.
 
-先查看保留的原项目 README、包清单与直接相关源码；运行环境和依赖以项目内实际说明为准。
+This update improves the English presentation. It does not rerun the project, install a skill, reproduce an old test, or establish production readiness. Some original working documents retain their source language; machine-specific paths or setup assumptions may still need adaptation.
 
-## 来源与许可
+## Sources and license
 
-本仓库新增介绍及用户原创部分按 MIT 许可公开；第三方材料按其各自许可证和署名使用，不以本许可证重新授权第三方内容。
+The owner's original contributions and new presentation notes follow the [retained license](LICENSE). Third-party material keeps its own licenses and attribution; this does not relicense it.
 
-## 当前状态与验证边界
-
-- 本次完成公开副本整理和静态检查；没有运行来源代码、构建 App、安装 Skill 或启动服务。
-- 项目可能处于原型、实验或研究阶段；没有将其表述为生产交付、客户验收或经过验证的投资收益。
-- 图片、视频、数据库、真实账户记录及未确认可公开的附件没有随本次文本/源码副本上传。
-- 部分相对链接、运行依赖或素材可能仍需补齐；原始快照中的静态引用缺口数为 0，该数字不是运行失败数。
-- [本次来源文件清单](SOURCE_MANIFEST.csv)
+[Source paths and hashes](SOURCE_MANIFEST.csv)
